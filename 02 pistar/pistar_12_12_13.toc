@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {2}{Model fit}{4}{0}{1}
+\beamer@sectionintoc {3}{\v {C}o je $\pi ^*$}{10}{0}{2}
+\beamer@sectionintoc {4}{Bal\'ik {\tt pistar}}{16}{0}{3}
+\beamer@sectionintoc {5}{Pou\v {z}itia}{18}{0}{4}
